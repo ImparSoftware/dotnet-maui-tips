@@ -17,3 +17,5 @@ Made with :heart: in South America, Brazil, RS - Santa Cruz do Sul
 # To Begin
 
 First, .Net Maui is in RC (Release Candidate) version at this time (18/06/2022)
+
+### [Checkout the Wiki Pages](https://github.com/ImparSoftware/dotnet-maui-tips/wiki)
